@@ -7,8 +7,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 /**
 *
-* GoldBank
-* Copyright (C) 2011 tjnome
+* PHFMS
+* Copyright (C) 2013 tjnome
 *
 * This program is free software: you can redistribute it and/or modify
 * it under the terms of the GNU General Public License as published by
